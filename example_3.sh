@@ -1,8 +1,22 @@
-echo command line 1; sleep 0.5
-echo command line 2; sleep 0.5
-echo command line 3; sleep 0.5
-echo command line 4; sleep 0.5
-echo command line 5; sleep 0.5
-echo command line 6; sleep 0.5
-echo command line 7; sleep 0.5
-echo command line 8; sleep 0.5
+echo this step takes 0.01 sec; sleep 0.01
+echo this step takes 0.02 sec; sleep 0.02
+echo this step takes 0.03 sec; sleep 0.03
+echo this step takes 0.04 sec; sleep 0.04
+echo this step takes 0.05 sec; sleep 0.05
+echo this step takes 0.06 sec; sleep 0.06
+echo this step takes 0.07 sec; sleep 0.07
+echo this step takes 0.08 sec; sleep 0.08
+echo this step takes 0.09 sec; sleep 0.09
+echo this step takes 0.10 sec; sleep 0.10
+echo this step takes 0.11 sec; sleep 0.11
+echo this step takes 0.12 sec; sleep 0.12
+echo this step takes 0.13 sec; sleep 0.13
+echo this step takes 0.14 sec; sleep 0.14
+echo this step takes 0.15 sec; sleep 0.15
+echo this step takes 0.16 sec; sleep 0.16
+echo this step takes 0.17 sec; sleep 0.17
+echo this step takes 0.18 sec; sleep 0.18
+echo this step takes 0.19 sec; sleep 0.19
+echo this step takes 0.20 sec; sleep 0.20
+echo this step takes 0.21 sec; sleep 0.21
+echo this step takes 0.22 sec; sleep 0.22
